@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "value": "contact_app"
+            "value": "contactappcopilot"
         },
         "appServicePlanName": {
-            "value": "contact_app_service_plan"
+            "value": "contactappserviceplan"
         },
         "location": {
             "value": "centralus"
