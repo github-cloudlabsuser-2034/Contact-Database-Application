@@ -14,6 +14,8 @@ namespace CRUD_application_2.Controllers
         // Implement the Index method here
         public ActionResult Index()
         {
+
+            // Pass the list of users to the Index view
             return View(userlist);
         }
 
